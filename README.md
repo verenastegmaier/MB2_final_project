@@ -5,7 +5,7 @@ This repository contains a R script for an unsupervised classification with foll
 The required data can be found and downloaded under following link:
 
 # Data Sources:
-Senitnel 2 Data: https://scihub.copernicus.eu/dhus/#/home
+Senitnel 2 Data: https://scihub.copernicus.eu/dhus/#/home                                                                                                                 
 MODIS Data: https://modis.gsfc.nasa.gov
 
 
